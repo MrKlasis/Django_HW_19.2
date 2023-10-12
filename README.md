@@ -1,2 +1,1 @@
-# Course work 5
-open CW_5
+python3 manage.py runserver
